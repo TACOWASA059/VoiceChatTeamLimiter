@@ -1,0 +1,6 @@
+{
+  "commands.team.option.allowVoiceChat.success": "Team %s: Voice Chat Allowed: %s",
+  "commands.team.option.onlySameTeamVC.success": "Team %s: Only Same Team VC: %s",
+  "commands.team.option.allowVoiceChat.alreadySet": "Nothing changed.",
+  "commands.team.option.onlySameTeamVC.alreadySet": "Nothing changed."
+}
